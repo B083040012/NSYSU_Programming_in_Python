@@ -6,4 +6,4 @@ hw of python programming
 * Teacher: Asst.Prof. Steve Haga
 
 ## About this repo
-* 😶Can't learn much about python through this repo.
+* Can't learn much about python through this repo.😶
